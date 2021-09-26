@@ -33,4 +33,58 @@ Go to the GitHub website and sign in with your email.
 After signing in, In the top right corner  there will be a little plus sign or cross next to your profile picture or avatar.
 click on it and then click new repository. After creating the repository and giving it a name 
 Make a read me file for future users
-Now go back to 
+Now go back to webstorm and create a **repository** there too
+
+Go to vcs which is at the top bar of the app right next to tools,
+and create a repository for git and give it a name
+
+From the main page select check out from **version control** and import that repository from Github.
+Give it a name and select the path to the file which should be git.demo
+
+After creating the repository go to file in the top left corner and create a html file
+When naming the file from HTML, don't forget to make it lowercase for the first letter
+
+Not making it lowercase could lead to future problems.
+Also create a complete a separate file for the project to make it easier to track and manage
+
+After creating the html 5 file it will open a add file dialog to add it to the local system
+After doing all these steps the vcs should be replaced by git.
+Click on Git and  click on commit for  all the changes just made.
+
+Add a message that should say base file
+
+After **committing** press alt ctrl +k or push in order to finish the commiting process
+
+After Go to the webpage in order to check the setting which should have the right name of the files and path. 
+It should also be on public in order for other people to see 
+Put the files in the master **branch** too.
+References
+1.Beer, B. (2018). Introducing GitHub. 2ed. O’Reilly Press.
+
+2.Jetbrains. (2019). Git.   Retrieved March 21, 2019, from https://www.jetbrains.com/help/webstorm/using-git-integration.html
+
+3.GitHub (2019) GitHub Guides Tutorial. Retrieved  March 19, 2019, from https://guides.github.com/activities/hello-world/
+
+Definitions
+
+**Branch:**  version of the repository
+
+**Repository**: the project as a whole where your files and everything go through
+
+**Clone**: making a local copy of the code
+
+**Commit**: making a change to file and sending it online
+
+**Git**: an app that helps track changes in code
+
+**GitHub**: Website used to upload and save work for anyone to see
+
+**Merge**:Reassembling a history
+
+**Merge conflict**: Two opposing changes being made to a file
+
+**push**:Uploading local change to remote place
+
+**Pull**:action making you aware of changes made to file 
+
+**Remote**: Online or not local
